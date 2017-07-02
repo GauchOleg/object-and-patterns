@@ -43,3 +43,5 @@ $boss->addEmployee("Вася");
 $boss->addEmployee("Петька");
 $boss->addEmployee("Манька");
 $boss->projectFails();
+
+// echo Манька: убери со стола
