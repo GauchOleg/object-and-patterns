@@ -1,5 +1,6 @@
 <?php
 /**
+ * Bad example
  * Created by PhpStorm.
  * User: oleg
  * Date: 02.07.2017
